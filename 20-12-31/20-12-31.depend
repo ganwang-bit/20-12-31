@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1609393940 source:c:\users\1\desktop\c语言\20-12-31\main.c
+
+1599715303 source:c:\users\1\desktop\源代码\windows版\第5章串\02模式匹配_kmp.c
+	"string.h"
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+	"time.h"
+
